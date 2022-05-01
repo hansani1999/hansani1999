@@ -20,4 +20,4 @@ Hello there👋 I'm Hansani.
 
 ## About
 - I'm a Software Engineering undergraduate student at IJSE. 
-- I'm currently learning Java as master language, Database Management and Front-End Web Application Development. 
+- I'm currently learning Java as a master language, Database Management and Front-End Web Application Development. 
